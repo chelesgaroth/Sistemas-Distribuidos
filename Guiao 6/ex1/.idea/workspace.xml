@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="753e39f9-4992-4406-9e81-2f5a557e8d1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/EchoServer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/EchoClient.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1k8YYfEOwZKP45vkwBZkqIUDH11" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.EchoClient">
+    <configuration name="EchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EchoClient" />
+      <module name="ex1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EchoServer" />
+      <module name="ex1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EchoClient" />
+        <item itemvalue="Application.EchoServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="753e39f9-4992-4406-9e81-2f5a557e8d1b" name="Default Changelist" comment="" />
+      <created>1605083736535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605083736535</updated>
+      <workItem from="1605083737665" duration="5148000" />
+      <workItem from="1605687918446" duration="63000" />
+      <workItem from="1605688178731" duration="1166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="775" y="299" width="424" height="521" key="FileChooserDialogImpl" timestamp="1605688620267">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state x="775" y="299" width="424" height="521" key="FileChooserDialogImpl/74.27.1846.1053@74.27.1846.1053" timestamp="1605688620267" />
+    <state width="1800" height="275" key="GridCell.Tab.0.bottom" timestamp="1605089424669">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1800" height="275" key="GridCell.Tab.0.bottom/74.27.1846.1053@74.27.1846.1053" timestamp="1605089424669" />
+    <state width="1800" height="275" key="GridCell.Tab.0.center" timestamp="1605089424669">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1800" height="275" key="GridCell.Tab.0.center/74.27.1846.1053@74.27.1846.1053" timestamp="1605089424669" />
+    <state width="1800" height="275" key="GridCell.Tab.0.left" timestamp="1605089424669">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1800" height="275" key="GridCell.Tab.0.left/74.27.1846.1053@74.27.1846.1053" timestamp="1605089424669" />
+    <state width="1800" height="275" key="GridCell.Tab.0.right" timestamp="1605089424669">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1800" height="275" key="GridCell.Tab.0.right/74.27.1846.1053@74.27.1846.1053" timestamp="1605089424669" />
+    <state x="255" y="144" width="1474" height="825" key="new project wizard" timestamp="1605688627222">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state x="255" y="144" width="1474" height="825" key="new project wizard/74.27.1846.1053@74.27.1846.1053" timestamp="1605688627222" />
+    <state x="660" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1605087814681">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state x="660" y="259" width="672" height="678" key="search.everywhere.popup/74.27.1846.1053@74.27.1846.1053" timestamp="1605087814681" />
+  </component>
+</project>
